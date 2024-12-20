@@ -220,7 +220,7 @@ def main():
     if hasattr(st.session_state, 'results_db') and not st.session_state.results_db.empty:
         st.subheader("Métricas del Sistema")
         
-        # Calcular métricas de manera segura
+        # Calcular métricas de manera segura 
         total_queries = len(st.session_state.results_db)
         hallucination_rate = st.session_state.results_db['is_hallucination'].mean() * 100
         

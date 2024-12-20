@@ -1,0 +1,7 @@
+timestamp,question,generation,is_hallucination,retrieval_score,category
+2024-12-20 16:44:46.050896,que contiene el libro proyecto gutenberg,El libro de Proyecto Gutenberg contiene obras electrónicas de distribución gratuita en formatos compatibles con una amplia variedad de computadoras.,False,0.5,General
+2024-12-20 16:45:26.868371,que es MDT,No lo sé.,True,0.5,General
+2024-12-20 16:45:42.744582,hablame sobre problemas psiquiatricos,"Los problemas psiquiátricos pueden incluir enfermedades clásicas y aquellas producidas por inestabilidades dinámicas y transitorias del cerebro. Estas últimas se refieren a la pérdida de estabilidad de los modelos en condiciones especiales o en ciertos momentos. Además, los modelos ilegales (XZM) también pueden explicar una serie de problemas psiquiátricos.",False,0.5,General
+2024-12-20 16:46:58.615669,dame un listado de las preguntas que puedo realizarte,"Lo siento, pero no tengo suficiente información para proporcionarte un listado de preguntas que puedes realizarme.",True,0.5,General
+2024-12-20 16:47:56.617552,que pregunta puedo realizarte,No tengo suficiente información para responder a tu pregunta.,False,0.5,General
+2024-12-20 16:48:24.022991,que sabes sobre la esquizofrenia,La esquizofrenia es un trastorno mental que puede incluir complejos esquizofrénico-paranoicos y paranoico-esquizofrénicos. Está relacionada con desarmonías en las funciones del cerebro. No tengo más detalles específicos sobre la esquizofrenia en el contexto proporcionado.,False,0.5,General
